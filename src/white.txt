@@ -15,6 +15,7 @@ Fixing relatives' printers
 Using Solar Bitflip Sort
 Having videos on auto play
 Using MS Word for Documentation
+Solving dozens of merge conflicts
 "Did you try turning it off and on again?"
 "I destroyed the internet"
 "I tested it"
