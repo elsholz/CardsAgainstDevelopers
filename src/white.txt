@@ -1,3 +1,24 @@
+Comic Sans MS
+We always did it that way
+Something written in TypeScript
+Automating it
+"Have you tried Google?"
+Using Bogosort
+Knowing Hello World in 20 different programming languages
+Using one port for every imaniable peripheral
+Doing everything in VIM
+Opening 100 Chrome Tabs
+"That's a stupid Question."
+Not a bug, won't fix
+Configuring tabs as 1 space
+Fixing relatives' printers
+Using Solar Bitflip Sort
+Solving the symptoms, not the error
+Having videos on auto play
+Using MS Word for Documentation
+Using MS PowerPoint for Documentation
+Not understanding markdown syntax
+Solving dozens of merge conflicts
 "Did you try turning it off and on again?"
 "I destroyed the internet"
 "I tested it"
